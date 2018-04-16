@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "webpack --config build/webpack.dev.config.js"
+  },
   "devDependencies": {
     "webpack": "^4.5.0"
   }
